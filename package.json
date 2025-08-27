@@ -12,7 +12,7 @@
     "postcss-modules": "^2.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "tailwindcss": "^1.4.6"
   },
   "scripts": {
@@ -47,7 +47,7 @@
     "@storybook/addon-links": "^5.3.19",
     "@storybook/addons": "^5.3.19",
     "@storybook/preset-create-react-app": "^3.1.1",
-    "@storybook/react": "^5.3.19",
+    "@storybook/react": "^9.1.1",
     "gh-pages": "^3.0.0"
   }
 }
